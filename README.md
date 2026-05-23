@@ -1,16 +1,46 @@
-## Hi there 👋
+# Olá 👋, Eu sou Victor Moura 
 
-<!--
-**victormourahs/victormourahs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀**Desenvolvedor Java em formação**
 
-Here are some ideas to get you started:
+Construindo minha base na programação e desenvolvendo meus primeiros sistemas web e projetos de software.
+Focado em aprender sobre arquitetura de sistemas, clean code e como a tecnologia resolve problemas reais de negócios.
+Documentando meus estudos e compartilhando conhecimento sobre desenvolvimento de software e tecnologia com a comunidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://github.com/victormourahs">
+    <img src="https://img.shields.io/badge/GitHub-VICTORMOURAHS-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/victor-moura-217248300/">
+    <img src="https://img.shields.io/badge/LinkedIn-VICTORMOURA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+## 🛠️ Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+
+⭐ Se você gostou do meu trabalho, considere deixar uma estrela no repositório.
+
+🤝 Sempre disponível para colaborações, parcerias e novos projetos.
